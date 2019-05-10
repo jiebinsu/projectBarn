@@ -1,17 +1,19 @@
-[
-  {
-    pickupTime: "9:10",
-    pickupLocation: "Somewhere over here, Manchester, United Kingdom",
-    dropoffLocation: "Somewhere over there, Stockport, United Kingdom"
-  },
-  {
-    pickupTime: "10:10",
-    pickupLocation: "Somewhere over here, Manchester, United Kingdom",
-    dropoffLocation: "Somewhere over there, Stockport, United Kingdom"
-  },
-  {
-    pickupTime: "11:10",
-    pickupLocation: "Somewhere over here, Manchester, United Kingdom",
-    dropoffLocation: "Somewhere over there, Stockport, United Kingdom"
-  }
-];
+{
+  "bookings": [
+    {
+      "pickupTime": "9:10",
+      "pickupLocation": "Somewhere over here, Manchester, United Kingdom",
+      "dropoffLocation": "Somewhere over there, Stockport, United Kingdom"
+    },
+    {
+      "pickupTime": "10:10",
+      "pickupLocation": "Somewhere over here, Manchester, United Kingdom",
+      "dropoffLocation": "Somewhere over there, Stockport, United Kingdom"
+    },
+    {
+      "pickupTime": "11:10",
+      "pickupLocation": "Somewhere over here, Manchester, United Kingdom",
+      "dropoffLocation": "Somewhere over there, Stockport, United Kingdom"
+    }
+  ]
+};
