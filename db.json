@@ -1,19 +1,39 @@
-{
-  "bookings": [
-    {
-      "pickupTime": "09:00",
-      "pickupLocation": "Manchester Piccadilly, Manchester, United Kingdom",
-      "dropoffLocation": "Manchester Airport Terminal 1, Manchester, United Kingdom"
-    },
-    {
-      "pickupTime": "10:15",
-      "pickupLocation": "Manchester Piccadilly, Manchester, United Kingdom",
-      "dropoffLocation": "Manchester Airport Terminal 2, Manchester, United Kingdom"
-    },
-    {
-      "pickupTime": "11:30",
-      "pickupLocation": "Manchester Piccadilly, Manchester, United Kingdom",
-      "dropoffLocation": "Manchester Airport Terminal 3, Manchester, United Kingdom"
-    }
-  ]
-}
+[{
+	"driverId": "8e68f200-cb87-47e7-af23-47925dd15793",
+	"supplierId": 3,
+	"supplierName": "Street Cars Manchester Ltd",
+	"bookingId": "10091574",
+	"status": "UPCOMING",
+	"pickup": {
+		"timeEpochMilli": 1558102091000,
+		"timezoneId": "Europe/London",
+		"postcode": "M90 1QX",
+		"locationDescription": "Manchester Britannia, Manchester Airport (MAN), Manchester M90 1QX, UK"
+	},
+	"dropOff": {
+		"postcode": "M3 5AS",
+		"locationDescription": "RentalCars, Manchester Arena Apartment, GB, City Heights, Victoria Bridge Street, Salford, Manchester M3 5AS, UK"
+	},
+	"flight": {
+		"arrivalTimeEpochMilli": null
+	}
+}, {
+	"driverId": "8e68f200-cb87-47e7-af23-47925dd15793",
+	"supplierId": 3,
+	"supplierName": "Street Cars Manchester Ltd",
+	"bookingId": "10062044",
+	"status": "UPCOMING",
+	"pickup": {
+		"timeEpochMilli": 1558171572000,
+		"timezoneId": "Europe/London",
+		"postcode": "M90 1QX",
+		"locationDescription": "Mobin's Crib"
+	},
+	"dropOff": {
+		"postcode": "M3 5AS",
+		"locationDescription": "Blackpool Tower"
+	},
+	"flight": {
+		"arrivalTimeEpochMilli": null
+	}
+}]
