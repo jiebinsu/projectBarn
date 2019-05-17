@@ -1,19 +1,19 @@
 {
   "bookings": [
     {
-      "pickupTime": "9:10",
-      "pickupLocation": "Somewhere over here, Manchester, United Kingdom",
-      "dropoffLocation": "Somewhere over there, Stockport, United Kingdom"
+      "pickupTime": "09:00",
+      "pickupLocation": "Manchester Piccadilly, Manchester, United Kingdom",
+      "dropoffLocation": "Manchester Airport Terminal 1, Manchester, United Kingdom"
     },
     {
-      "pickupTime": "10:10",
-      "pickupLocation": "Somewhere over here, Manchester, United Kingdom",
-      "dropoffLocation": "Somewhere over there, Stockport, United Kingdom"
+      "pickupTime": "10:15",
+      "pickupLocation": "Manchester Piccadilly, Manchester, United Kingdom",
+      "dropoffLocation": "Manchester Airport Terminal 2, Manchester, United Kingdom"
     },
     {
-      "pickupTime": "11:10",
-      "pickupLocation": "Somewhere over here, Manchester, United Kingdom",
-      "dropoffLocation": "Somewhere over there, Stockport, United Kingdom"
+      "pickupTime": "11:30",
+      "pickupLocation": "Manchester Piccadilly, Manchester, United Kingdom",
+      "dropoffLocation": "Manchester Airport Terminal 3, Manchester, United Kingdom"
     }
   ]
 }
