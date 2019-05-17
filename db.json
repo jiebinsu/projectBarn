@@ -1,4 +1,4 @@
-[{
+{
 	"driverId": "8e68f200-cb87-47e7-af23-47925dd15793",
 	"supplierId": 3,
 	"supplierName": "Street Cars Manchester Ltd",
@@ -36,4 +36,4 @@
 	"flight": {
 		"arrivalTimeEpochMilli": null
 	}
-}]
+}
